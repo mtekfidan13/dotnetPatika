@@ -20,7 +20,7 @@ namespace Variables_and_DataTypes
             int i = 2;      //4byte
             Int32 i32 = 2;  //4byte
             Int64 i64 = 2;  //8byte
-
+            
             uint ui = 2;    //4byte
             long l = 4;     //8byte
             ulong ul = 4;   //8byte
